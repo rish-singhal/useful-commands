@@ -1,8 +1,8 @@
 # Useful Commands
 
 # Table of Contents
-1. [Installing deb files](# Installing-deb-file)
-2. [Working with pipenv](# Working-with-pipenv)
+1. [Installing deb files](#Installing-deb-file)
+2. [Working with pipenv](#Working-with-pipenv)
 
 ----
 
