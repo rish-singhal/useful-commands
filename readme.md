@@ -1,5 +1,11 @@
 # Useful Commands
 
+# Table of Contents
+1. [Installing deb files](# Installing-deb-file)
+2. [Working with pipenv](# Working-with-pipenv)
+
+----
+
 ## Installing deb file
 
 ```bash
