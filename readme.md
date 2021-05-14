@@ -6,6 +6,12 @@
 
 ----
 
+## Generate SSH Keys
+
+```bash
+ssh-keygen -t rsa -b 4096
+```
+
 ## Installing deb file
 
 ```bash
@@ -25,4 +31,9 @@ before doing actual installation which
 pipenv install --dev
 ```
 
+## Copy to Clipboard
+
+```bash
+pbcopy < [file_name]
+```
 
